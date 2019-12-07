@@ -1,6 +1,7 @@
 {
     "name": "HEAR/parse-diploma-csv",
     "description": "Kirby Plugin to create content from a csv",
+    "type": "kirby-plugin",
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +9,6 @@
             "email": "loic.horellou@hear.fr",
             "homepage": "https://comgraph.hear.fr"
         }
-    ]
+    ],
+    "minimum-stability": "beta"
 }
