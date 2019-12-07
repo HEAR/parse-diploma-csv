@@ -1,12 +1,12 @@
 {
-    "name": "getkirby/pluginkit",
-    "description": "Kirby Example Plugin",
+    "name": "hear/parse-diploma-csv",
+    "description": "Kirby Plugin to create content from a csv",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kirby Team",
-            "email": "support@getkirby.com",
-            "homepage": "https://getkirby.com"
+            "name": "ComGraph Team",
+            "email": "loic.horellou@hear.fr",
+            "homepage": "https://comgraph.hear.fr"
         }
     ]
 }
