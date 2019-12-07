@@ -1,5 +1,5 @@
 {
-    "name": "HEAR/parse-diploma-csv",
+    "name": "hear/parse-diploma-csv",
     "description": "Kirby Plugin to create content from a csv",
     "type": "kirby-plugin",
     "license": "MIT",
